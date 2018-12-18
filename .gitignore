@@ -1,5 +1,6 @@
 node_modules
 build
+config
 .env
 npm-dbug.log 
 .DS_Store
